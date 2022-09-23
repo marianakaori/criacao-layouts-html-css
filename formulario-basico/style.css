@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.piece{
+    display: flex;
+    flex-direction: column;
+    line-height: 4vh;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+}
